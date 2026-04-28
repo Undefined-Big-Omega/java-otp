@@ -1,0 +1,6 @@
+target/
+*.class
+logs/
+otp_files/
+*.log
+.DS_Store
